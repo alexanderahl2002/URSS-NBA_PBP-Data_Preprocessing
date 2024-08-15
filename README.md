@@ -1,5 +1,5 @@
-# The code required for pre-processing data obtained from https://hoopr.sportsdataverse.org
-This is a Repository to help with the preprocessing of hoopR data. The model is not my own. 
+# The code required for pre-processing NBA play-by-play data to use in VI-DPP model. 
+This is a Repository to help with the preprocessing of hoopR data obtained from https://hoopr.sportsdataverse.org. The model is not my own. 
 The original model is described in the AISTATS-23 paper [Scalable Marked Point Processes for Exchangeable and
 Non-Exchangeable Event Sequences](https://arxiv.org/pdf/2105.14574.pdf) and the implementation is originally described in 
 https://github.com/aresPanos/Interpretable-Point-Processes/blob/main/README.md?plain=1 . I have added the python file URSS_data_preproccessing
